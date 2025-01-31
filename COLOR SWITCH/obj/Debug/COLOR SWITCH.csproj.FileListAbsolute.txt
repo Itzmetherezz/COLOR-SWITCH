@@ -1,0 +1,10 @@
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR SWITCH.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR_SWITCH.Form1.resources
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR_SWITCH.Properties.Resources.resources
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR SWITCH.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\bin\Debug\COLOR SWITCH.exe.config
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\bin\Debug\COLOR SWITCH.exe
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\bin\Debug\COLOR SWITCH.pdb
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR SWITCH.exe
+C:\Users\itzth\source\repos\COLOR SWITCH\COLOR SWITCH\obj\Debug\COLOR SWITCH.pdb
