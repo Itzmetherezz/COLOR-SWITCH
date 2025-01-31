@@ -11,7 +11,7 @@
 
 ## Controls
 - Click the SpaceBar To change the color of the paddle.
-- The lines will come down and you have to make the paddle the same color as ThemeSizeType.
+- The lines will come down and you have to make the paddle the same color as the line.
 - If you fail to do so you will lose the game.
 - The speed will keep on increasing so try to get as many points as you can.
 
@@ -20,7 +20,7 @@
 - Made the score label and made three pictureboxes to serve as lines and the paddle.
 - Assigned random colors to the lines.
 - Made the color of the paddle toggle.  
-- Made the game wnd with the intersection of the paddle and lines if the color was not same.
+- Made the game end with the intersection of the paddle and lines if the color was not same.
 - Made the speed increase with the increase of score.
 - Made the game end screen.
 - Made the game restart function.
